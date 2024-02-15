@@ -1,5 +1,5 @@
 # Apikeys-and-tokens-Regexes-
-A Small regexes dataset of various apikeys and tokens regexes.
+A Small dataset of various apikeys and tokens regexes.
 
 Note : 
 All the regexes are enclosed with '  or "  e.g ;
