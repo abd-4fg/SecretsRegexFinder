@@ -4,3 +4,5 @@ The script can be used to search for list of apikeys and secrets via a regexes, 
 
 Note:
 - In above finder.py script , modify the paths of regex.txt file and the directory of files to search in , to actual paths in your system.  
+
+>The script can be slow to process high number of files inside a directory.
