@@ -1,9 +1,4 @@
-# Apikeys-and-tokens-Regexes-
-A Small dataset of various apikeys and tokens regexes.
+# Apikeys-and-tokens-Finding via regexes 
 
-Note : 
-All the regexes are enclosed with '  or "  e.g ;
-- regex-name: 'xxxxx_regex_here_xxxxx'
-- regex-name: "xxxxx_regex_here_xxxxx"
-
->if using the regex file in scripts configure the script accordingly.
+Note:
+- In above finder.py script , modify the paths of regex.txt file and the directory of files to search to actual paths in your system.  
